@@ -1,7 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## makeCacheMatrix takes a provided matrix and creates a list of functions
+## that can be used to perform operations on that matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
